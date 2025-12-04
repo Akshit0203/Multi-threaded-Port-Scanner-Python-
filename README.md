@@ -1,4 +1,4 @@
-# 🔍 Multi-threaded Port Scanner (Python)
+# Multi-threaded Port Scanner (Python)
 
 A fast TCP port scanner built using Python's `socket` and `threading` modules.  
 Scans ports from **1 to 65535** concurrently and displays open ports.
